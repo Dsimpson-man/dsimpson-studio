@@ -45,6 +45,20 @@ git clone https://github.com/Dsimpson-man/dsimpson-studio.git
 
 每次开始新的对话，先读 `AGENTS.md` 和 `进度.md`——前者给背景，后者给现状。两者加起来就够了。
 
+### 复制这段给 AI
+
+```text
+这是我的个人工作仓库：https://github.com/Dsimpson-man/dsimpson-studio
+
+请先读 AGENTS.md 和 进度.md，再按需读 01-90天计划.md 和 03-产品手册.md。
+
+然后回答我下面的问题，注意按 AGENTS.md 里的要求：给判断、给数字、先说问题、别说鸡汤。
+
+问题：
+```
+
+如果 AI 没有联网能力，把仓库 clone 到本地，让它直接读文件即可。
+
 ---
 
 ## 更新规则
